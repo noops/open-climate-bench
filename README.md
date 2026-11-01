@@ -1,8 +1,8 @@
-# Open Climate Bench
+# Climate Ledger
 
 A documented, reproducible benchmark of public climate datasets and model evals.
 
-Status: idea. Part of [Bat City AI](https://batcityai.com)'s Year One programs.
+Status: idea. Part of [Bat City AI](https://batcityai.com)'s Year One programs. (Formerly "Open Climate Bench" — renamed to avoid confusion with the existing [ClimateBench](https://github.com/duncanwp/ClimateBench) project.)
 
 ## Plan
 
